@@ -1,0 +1,23 @@
+header {
+    background-color: beige;
+    color:rgb(95, 77, 77);
+    text-align: center;
+    padding: 35px;
+}
+p {
+    font-size: 20px;
+    margin: 18px;
+    text-align: center;
+    background-color: rgba(231, 233, 112, 0.5);
+}
+
+button {
+    background-color: rgba(134, 202, 247, 0.459);
+    border-radius: 4px;
+    padding: 10px 21px;
+    cursor: pointer;
+}
+
+button:hover {
+   background-color: rgba(28, 105, 206, 0.61);
+}
