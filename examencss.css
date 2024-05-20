@@ -23,3 +23,6 @@ button {
 button:hover {
    background-color: rgba(28, 105, 206, 0.61);
 }
+body {
+    background-color: rgb(212, 233, 252);
+}
